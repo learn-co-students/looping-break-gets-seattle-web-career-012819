@@ -5,6 +5,6 @@
 	  answer = gets.chomp!
 	  break if answer == "Wingardium Leviosa"
 	 end
-end
+#end
 
 
